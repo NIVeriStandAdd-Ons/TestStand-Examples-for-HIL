@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="TRML.xsl"?>
+<TestResults xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" uuid="9429bbad-6a6a-4e6d-8ac4-57b6c5bb2940" xmlns="http://www.ieee.org/ATML/2007/TestResults">
+	<Personnel>
+		<SystemOperator ID="CRIO-47AGC\blueuser" />
+	</Personnel>
+	<References>
+		<Reference uuid="4d8eeb2d-11ff-42d0-ac9a-e9e7d90909df" name="DUTSpecific">
+			<Text xmlns="http://www.ieee.org/ATML/2006/Common">C:\HIL Test Examples\Continuous Monitoring Tester\Sequences\DUTSpecific.nivsstimprof</Text>
+		</Reference>
+	</References>
+	<ResultSet ID="Test Result" name="C:\HIL Test Examples\Continuous Monitoring Tester\Sequences\Test Results\0\DUTSpecific Test Result.xml" startDateTime="2016-06-24T16:30:26.2182245-04:00" endDateTime="2016-06-24T16:30:39.7870006-04:00">
+		<Outcome value="Failed" />
+		<Test ID="Setup" name="Setup" startDateTime="2016-06-24T16:30:26.2182245-04:00" endDateTime="2016-06-24T16:30:26.2182245-04:00">
+			<Outcome value="Passed" />
+		</Test>
+		<TestGroup ID="Main" name="Main" startDateTime="2016-06-24T16:30:26.2182245-04:00" endDateTime="2016-06-24T16:30:26.2182245-04:00">
+			<Outcome value="Failed" />
+			<Test ID="Main/Call RealTimeSequence: Functional cycling 111715_Converted.csv" name="Call RealTimeSequence: Functional cycling 111715_Converted.csv" startDateTime="2016-06-24T16:30:26.2182245-04:00" endDateTime="2016-06-24T16:30:39.7850005-04:00">
+				<Outcome value="Failed" qualifier="Error -307654 occurred at an unidentified location&#xD;&#xA;&#xD;&#xA;" />
+			</Test>
+		</TestGroup>
+		<Test ID="Clean Up" name="Clean Up" startDateTime="2016-06-24T16:30:39.7870006-04:00" endDateTime="2016-06-24T16:30:39.7870006-04:00">
+			<Outcome value="Passed" />
+		</Test>
+	</ResultSet>
+	<TestDescription>
+		<Definition version="1_0_0_0" xmlns="http://www.ieee.org/ATML/2006/Common">
+			<Identification />
+		</Definition>
+	</TestDescription>
+	<UUT UutType="software">
+		<SerialNumber xmlns="http://www.ieee.org/ATML/2006/Common">0</SerialNumber>
+	</UUT>
+</TestResults>

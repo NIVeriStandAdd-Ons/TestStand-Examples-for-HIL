@@ -1,0 +1,1 @@
+taskkill /IM "NI VeriStand.exe"

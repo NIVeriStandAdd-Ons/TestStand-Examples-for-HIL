@@ -231,6 +231,1710 @@
 				<ParameterAssignment Name="Aliases_CAN_DUT1_OPH_OPH5300_04_CMD">
 					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT1/OPH/OPH5300_04_CMD" />
 				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDH_IDH01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDH/IDH01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDH_IDH02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDH/IDH02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL03">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL03" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL04">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL04" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL05">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL05" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL06">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL06" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL07">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL07" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL08">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL08" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL09">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL09" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL10">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL10" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL11">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL11" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL12">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL12" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL13">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL13" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL14">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL14" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL15">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL15" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL16">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL16" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL17">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL17" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL18">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL18" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL19">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL19" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL20">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL20" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL21">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL21" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL22">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL22" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT2_IDL_IDL23">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT2/IDL/IDL23" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODL_ODL350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODL/ODL350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODL_ODL350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODL/ODL350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_08_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_08_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_09_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_09_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_10_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_10_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH350_11_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH350_11_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH700_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH700_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH700_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH700_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH700_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH700_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_ODH_ODH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/ODH/ODH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH1000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH1000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH1000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH1000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH1000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH1000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH1500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH1500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH1500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH1500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH1500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH1500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH2000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH2000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH2500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH2500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH2500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH2500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH2500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH2500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH2500_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH2500_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH2500_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH2500_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH2500_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH2500_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH2500_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH2500_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5000_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5000_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5000_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5000_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5300_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5300_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5300_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5300_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5300_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5300_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT2_OPH_OPH5300_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT2/OPH/OPH5300_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDH_IDH01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDH/IDH01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDH_IDH02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDH/IDH02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL03">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL03" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL04">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL04" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL05">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL05" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL06">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL06" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL07">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL07" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL08">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL08" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL09">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL09" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL10">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL10" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL11">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL11" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL12">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL12" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL13">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL13" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL14">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL14" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL15">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL15" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL16">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL16" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL17">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL17" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL18">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL18" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL19">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL19" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL20">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL20" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL21">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL21" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL22">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL22" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT3_IDL_IDL23">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT3/IDL/IDL23" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODL_ODL350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODL/ODL350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODL_ODL350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODL/ODL350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_08_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_08_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_09_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_09_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_10_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_10_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH350_11_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH350_11_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH700_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH700_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH700_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH700_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH700_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH700_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_ODH_ODH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/ODH/ODH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH1000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH1000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH1000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH1000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH1000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH1000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH1500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH1500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH1500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH1500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH1500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH1500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH2000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH2000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH2500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH2500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH2500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH2500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH2500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH2500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH2500_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH2500_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH2500_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH2500_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH2500_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH2500_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH2500_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH2500_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5000_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5000_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5000_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5000_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5300_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5300_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5300_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5300_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5300_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5300_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT3_OPH_OPH5300_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT3/OPH/OPH5300_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDH_IDH01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDH/IDH01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDH_IDH02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDH/IDH02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL03">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL03" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL04">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL04" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL05">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL05" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL06">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL06" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL07">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL07" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL08">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL08" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL09">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL09" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL10">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL10" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL11">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL11" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL12">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL12" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL13">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL13" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL14">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL14" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL15">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL15" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL16">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL16" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL17">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL17" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL18">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL18" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL19">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL19" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL20">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL20" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL21">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL21" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL22">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL22" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT4_IDL_IDL23">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT4/IDL/IDL23" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODL_ODL350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODL/ODL350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODL_ODL350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODL/ODL350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_08_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_08_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_09_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_09_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_10_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_10_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH350_11_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH350_11_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH700_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH700_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH700_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH700_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH700_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH700_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_ODH_ODH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/ODH/ODH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH1000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH1000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH1000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH1000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH1000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH1000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH1500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH1500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH1500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH1500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH1500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH1500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH2000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH2000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH2500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH2500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH2500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH2500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH2500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH2500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH2500_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH2500_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH2500_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH2500_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH2500_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH2500_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH2500_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH2500_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5000_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5000_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5000_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5000_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5300_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5300_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5300_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5300_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5300_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5300_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT4_OPH_OPH5300_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT4/OPH/OPH5300_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDH_IDH01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDH/IDH01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDH_IDH02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDH/IDH02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL03">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL03" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL04">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL04" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL05">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL05" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL06">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL06" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL07">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL07" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL08">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL08" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL09">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL09" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL10">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL10" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL11">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL11" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL12">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL12" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL13">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL13" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL14">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL14" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL15">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL15" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL16">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL16" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL17">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL17" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL18">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL18" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL19">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL19" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL20">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL20" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL21">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL21" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL22">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL22" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT5_IDL_IDL23">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT5/IDL/IDL23" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODL_ODL350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODL/ODL350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODL_ODL350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODL/ODL350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_08_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_08_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_09_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_09_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_10_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_10_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH350_11_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH350_11_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH700_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH700_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH700_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH700_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH700_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH700_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_ODH_ODH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/ODH/ODH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH1000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH1000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH1000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH1000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH1000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH1000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH1500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH1500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH1500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH1500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH1500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH1500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH2000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH2000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH2500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH2500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH2500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH2500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH2500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH2500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH2500_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH2500_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH2500_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH2500_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH2500_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH2500_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH2500_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH2500_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5000_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5000_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5000_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5000_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5300_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5300_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5300_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5300_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5300_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5300_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT5_OPH_OPH5300_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT5/OPH/OPH5300_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDH_IDH01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDH/IDH01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDH_IDH02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDH/IDH02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL03">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL03" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL04">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL04" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL05">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL05" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL06">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL06" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL07">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL07" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL08">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL08" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL09">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL09" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL10">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL10" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL11">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL11" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL12">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL12" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL13">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL13" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL14">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL14" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL15">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL15" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL16">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL16" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL17">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL17" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL18">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL18" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL19">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL19" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL20">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL20" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL21">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL21" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL22">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL22" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT6_IDL_IDL23">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT6/IDL/IDL23" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODL_ODL350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODL/ODL350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODL_ODL350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODL/ODL350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_08_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_08_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_09_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_09_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_10_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_10_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH350_11_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH350_11_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH700_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH700_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH700_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH700_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH700_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH700_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_ODH_ODH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/ODH/ODH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH1000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH1000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH1000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH1000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH1000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH1000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH1500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH1500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH1500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH1500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH1500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH1500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH2000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH2000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH2500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH2500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH2500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH2500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH2500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH2500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH2500_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH2500_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH2500_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH2500_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH2500_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH2500_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH2500_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH2500_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5000_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5000_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5000_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5000_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5300_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5300_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5300_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5300_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5300_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5300_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT6_OPH_OPH5300_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT6/OPH/OPH5300_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDH_IDH01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDH/IDH01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDH_IDH02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDH/IDH02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL03">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL03" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL04">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL04" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL05">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL05" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL06">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL06" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL07">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL07" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL08">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL08" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL09">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL09" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL10">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL10" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL11">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL11" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL12">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL12" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL13">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL13" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL14">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL14" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL15">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL15" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL16">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL16" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL17">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL17" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL18">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL18" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL19">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL19" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL20">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL20" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL21">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL21" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL22">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL22" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT7_IDL_IDL23">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT7/IDL/IDL23" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODL_ODL350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODL/ODL350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODL_ODL350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODL/ODL350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_08_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_08_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_09_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_09_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_10_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_10_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH350_11_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH350_11_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH700_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH700_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH700_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH700_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH700_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH700_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_ODH_ODH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/ODH/ODH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH1000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH1000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH1000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH1000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH1000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH1000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH1500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH1500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH1500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH1500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH1500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH1500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH2000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH2000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH2500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH2500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH2500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH2500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH2500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH2500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH2500_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH2500_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH2500_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH2500_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH2500_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH2500_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH2500_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH2500_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5000_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5000_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5000_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5000_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5300_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5300_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5300_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5300_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5300_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5300_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT7_OPH_OPH5300_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT7/OPH/OPH5300_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDH_IDH01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDH/IDH01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDH_IDH02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDH/IDH02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL03">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL03" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL04">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL04" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL05">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL05" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL06">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL06" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL07">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL07" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL08">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL08" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL09">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL09" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL10">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL10" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL11">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL11" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL12">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL12" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL13">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL13" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL14">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL14" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL15">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL15" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL16">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL16" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL17">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL17" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL18">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL18" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL19">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL19" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL20">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL20" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL21">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL21" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL22">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL22" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT8_IDL_IDL23">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT8/IDL/IDL23" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODL_ODL350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODL/ODL350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODL_ODL350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODL/ODL350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_08_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_08_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_09_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_09_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_10_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_10_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH350_11_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH350_11_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH700_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH700_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH700_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH700_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH700_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH700_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_ODH_ODH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/ODH/ODH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH1000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH1000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH1000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH1000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH1000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH1000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH1500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH1500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH1500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH1500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH1500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH1500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH2000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH2000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH2500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH2500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH2500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH2500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH2500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH2500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH2500_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH2500_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH2500_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH2500_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH2500_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH2500_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH2500_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH2500_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5000_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5000_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5000_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5000_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5300_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5300_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5300_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5300_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5300_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5300_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT8_OPH_OPH5300_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT8/OPH/OPH5300_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDH_IDH01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDH/IDH01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDH_IDH02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDH/IDH02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL01">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL01" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL02">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL02" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL03">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL03" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL04">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL04" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL05">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL05" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL06">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL06" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL07">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL07" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL08">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL08" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL09">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL09" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL10">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL10" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL11">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL11" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL12">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL12" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL13">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL13" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL14">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL14" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL15">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL15" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL16">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL16" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL17">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL17" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL18">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL18" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL19">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL19" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL20">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL20" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL21">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL21" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL22">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL22" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_DUT9_IDL_IDL23">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT9/IDL/IDL23" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODL_ODL350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODL/ODL350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODL_ODL350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODL/ODL350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_08_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_08_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_09_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_09_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_10_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_10_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH350_11_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH350_11_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH700_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH700_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH700_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH700_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH700_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH700_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_ODH_ODH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/ODH/ODH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH1000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH1000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH1000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH1000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH1000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH1000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH1500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH1500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH1500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH1500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH1500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH1500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH2000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH2000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH2500_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH2500_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH2500_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH2500_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH2500_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH2500_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH2500_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH2500_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH2500_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH2500_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH2500_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH2500_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH2500_07_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH2500_07_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5000_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5000_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5000_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5000_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5000_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5000_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5000_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5000_04_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5000_05_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5000_05_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5000_06_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5000_06_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5300_01_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5300_01_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5300_02_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5300_02_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5300_03_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5300_03_CMD" />
+				</ParameterAssignment>
+				<ParameterAssignment Name="Aliases_CAN_DUT9_OPH_OPH5300_04_CMD">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/CAN/DUT9/OPH/OPH5300_04_CMD" />
+				</ParameterAssignment>
 			</ParameterAssignments>
 			<SequencePath>Functional cycling 111715_Converted.csv</SequencePath>
 			<Target />

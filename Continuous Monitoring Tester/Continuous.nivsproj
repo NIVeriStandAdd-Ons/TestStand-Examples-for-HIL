@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="System definition.xsd">
 	<MD5Checksum />
-	<Version Major="2012" Minor="0" Fix="0" Build="1" />
+	<Version Major="2015" Minor="0" Fix="0" Build="0" />
 	<Content>Definition</Content>
 	<Root Name="Continuous" TypeGUID="d9313aae-3554-45e5-93f3-86454275d4f2">
 		<Description />
@@ -39,7 +39,7 @@
 				<Errors />
 			</Section>
 		</Section>
-		<Section Name="Workspace" TypeGUID="bc98486f-7b49-4949-9504-949cbe254c85">
+		<Section Name="User Interface" TypeGUID="bc98486f-7b49-4949-9504-949cbe254c85">
 			<Description />
 			<Properties>
 				<Property Name="User Accounts">
@@ -178,29 +178,29 @@
 			<Description />
 			<Properties />
 			<Errors />
-			<Section Name="Continuous.nivssdf (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+			<Section Name="Continuous.nivssdf" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\HIL Test Examples\Continuous Monitoring Tester\Continuous.nivssdf</String>
+						<String>C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\Continuous.nivssdf</String>
 					</Property>
 				</Properties>
 				<Errors />
 			</Section>
-			<Section Name="Continuous.nivsscreen (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+			<Section Name="Continuous.nivsscreen" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\HIL Test Examples\Continuous Monitoring Tester\Continuous.nivsscreen</String>
+						<String>C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\Continuous.nivsscreen</String>
 					</Property>
 				</Properties>
 				<Errors />
 			</Section>
-			<Section Name="Continuous.nivscf (1)" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
+			<Section Name="Continuous.nivscf" TypeGUID="369b9797-43bd-4cdf-8352-81032feed666">
 				<Description />
 				<Properties>
 					<Property Name="Path">
-						<String>C:\HIL Test Examples\Continuous Monitoring Tester\Continuous.nivscf</String>
+						<String>C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\Continuous.nivscf</String>
 					</Property>
 				</Properties>
 				<Errors />

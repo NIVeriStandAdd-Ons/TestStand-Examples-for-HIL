@@ -43,9 +43,9 @@
 		<Item Name="Waveforms.Close.vi" Type="VI" URL="../SubVIs/Waveforms.Close.vi"/>
 		<Item Name="Waveforms.Init.vi" Type="VI" URL="../SubVIs/Waveforms.Init.vi"/>
 		<Item Name="Waveforms.Process.vi" Type="VI" URL="../SubVIs/Waveforms.Process.vi"/>
+		<Item Name="NIVS.Waveforms.Group.vi" Type="VI" URL="../SubVIs/NIVS.Waveforms.Group.vi"/>
 		<Item Name="NIVS.Channels.Read.vi" Type="VI" URL="../SubVIs/NIVS.Channels.Read.vi"/>
 		<Item Name="Table.Clear.vi" Type="VI" URL="../SubVIs/Table.Clear.vi"/>
-		<Item Name="NIVS.Waveforms.Group" Type="VI" URL="../SubVIs/NIVS.Waveforms.Group"/>
 		<Item Name="Waveforms.Start.vi" Type="VI" URL="../SubVIs/Waveforms.Start.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">

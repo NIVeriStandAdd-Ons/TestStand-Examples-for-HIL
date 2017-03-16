@@ -39,14 +39,21 @@
 		<Item Name="Page.Set.vi" Type="VI" URL="../SubVIs/Page.Set.vi"/>
 		<Item Name="Error.Display.vi" Type="VI" URL="../SubVIs/Error.Display.vi"/>
 		<Item Name="NIVS.FilterChannels.vi" Type="VI" URL="../SubVIs/NIVS.FilterChannels.vi"/>
+		<Item Name="NIVS.FilterWaveforms.vi" Type="VI" URL="../SubVIs/NIVS.FilterWaveforms.vi"/>
+		<Item Name="Waveforms.Close.vi" Type="VI" URL="../SubVIs/Waveforms.Close.vi"/>
+		<Item Name="Waveforms.Init.vi" Type="VI" URL="../SubVIs/Waveforms.Init.vi"/>
+		<Item Name="Waveforms.Process.vi" Type="VI" URL="../SubVIs/Waveforms.Process.vi"/>
 		<Item Name="NIVS.Channels.Read.vi" Type="VI" URL="../SubVIs/NIVS.Channels.Read.vi"/>
 		<Item Name="Table.Clear.vi" Type="VI" URL="../SubVIs/Table.Clear.vi"/>
+		<Item Name="NIVS.Waveforms.Group" Type="VI" URL="../SubVIs/NIVS.Waveforms.Group"/>
+		<Item Name="Waveforms.Start.vi" Type="VI" URL="../SubVIs/Waveforms.Start.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
 		<Item Name="Execute.UserEventRefs.ctl" Type="VI" URL="../Types/Execute.UserEventRefs.ctl"/>
 		<Item Name="Main.StateVariables.ctl" Type="VI" URL="../Types/Main.StateVariables.ctl"/>
 		<Item Name="UI.Object.ctl" Type="VI" URL="../Types/UI.Object.ctl"/>
 		<Item Name="UI.Tables.ctl" Type="VI" URL="../Types/UI.Tables.ctl"/>
+		<Item Name="Waveforms.Info.ctl" Type="VI" URL="../Types/Waveforms.Info.ctl"/>
 	</Item>
 	<Item Name="Station.Execution.vi" Type="VI" URL="../Station.Execution.vi"/>
 	<Item Name="Station.Execution.rtm" Type="Document" URL="../Station.Execution.rtm"/>

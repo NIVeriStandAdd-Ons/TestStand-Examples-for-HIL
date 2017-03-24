@@ -47,6 +47,8 @@
 		<Item Name="NIVS.Channels.Read.vi" Type="VI" URL="../SubVIs/NIVS.Channels.Read.vi"/>
 		<Item Name="Table.Clear.vi" Type="VI" URL="../SubVIs/Table.Clear.vi"/>
 		<Item Name="Waveforms.Start.vi" Type="VI" URL="../SubVIs/Waveforms.Start.vi"/>
+		<Item Name="Page.Back.vi" Type="VI" URL="../SubVIs/Page.Back.vi"/>
+		<Item Name="Page.Next.vi" Type="VI" URL="../SubVIs/Page.Next.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
 		<Item Name="Execute.UserEventRefs.ctl" Type="VI" URL="../Types/Execute.UserEventRefs.ctl"/>

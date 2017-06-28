@@ -39,7 +39,6 @@
 		<Item Name="Page.Set.vi" Type="VI" URL="../SubVIs/Page.Set.vi"/>
 		<Item Name="Error.Display.vi" Type="VI" URL="../SubVIs/Error.Display.vi"/>
 		<Item Name="NIVS.FilterChannels.vi" Type="VI" URL="../SubVIs/NIVS.FilterChannels.vi"/>
-		<Item Name="NIVS.FilterWaveforms.vi" Type="VI" URL="../SubVIs/NIVS.FilterWaveforms.vi"/>
 		<Item Name="Waveforms.Close.vi" Type="VI" URL="../SubVIs/Waveforms.Close.vi"/>
 		<Item Name="Waveforms.Init.vi" Type="VI" URL="../SubVIs/Waveforms.Init.vi"/>
 		<Item Name="Waveforms.Process.vi" Type="VI" URL="../SubVIs/Waveforms.Process.vi"/>

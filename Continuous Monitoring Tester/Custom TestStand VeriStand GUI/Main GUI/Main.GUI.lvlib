@@ -34,6 +34,7 @@
 	<Property Name="Serialized ACL" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Station.SetPublishedPages.vi" Type="VI" URL="../SubVIs/Station.SetPublishedPages.vi"/>
 		<Item Name="TestStand.ConnectCommands.vi" Type="VI" URL="../SubVIs/TestStand.ConnectCommands.vi"/>
 		<Item Name="TestStand.DisplayError.vi" Type="VI" URL="../SubVIs/TestStand.DisplayError.vi"/>
 		<Item Name="TestStand.DisplayExecutionCallback.vi" Type="VI" URL="../SubVIs/TestStand.DisplayExecutionCallback.vi"/>

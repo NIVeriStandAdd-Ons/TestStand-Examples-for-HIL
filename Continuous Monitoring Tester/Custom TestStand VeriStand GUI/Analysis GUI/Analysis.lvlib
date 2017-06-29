@@ -6,6 +6,8 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Analysis.AddedItem.vi" Type="VI" URL="../SubVIs/Analysis.AddedItem.vi"/>
+		<Item Name="Analysis.Determine.vi" Type="VI" URL="../SubVIs/Analysis.Determine.vi"/>
+		<Item Name="Analysis.DeterminePass.vi" Type="VI" URL="../SubVIs/Analysis.DeterminePass.vi"/>
 		<Item Name="Analysis.Folders.Initialize.vi" Type="VI" URL="../SubVIs/Analysis.Folders.Initialize.vi"/>
 		<Item Name="Analysis.GUI.vi" Type="VI" URL="../Analysis.GUI.vi"/>
 		<Item Name="Analysis.Main.vi" Type="VI" URL="../SubVIs/Analysis.Main.vi"/>
@@ -31,6 +33,7 @@
 		<Item Name="Analysis.Template.vit" Type="VI" URL="../SubVIs/Analysis.Template.vit"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
+		<Item Name="Analysis.FileProperties.ctl" Type="VI" URL="../Types/Analysis.FileProperties.ctl"/>
 		<Item Name="Analysis.GUI.Parameters.ctl" Type="VI" URL="../Types/Analysis.GUI.Parameters.ctl"/>
 		<Item Name="Analysis.GUI.Refs.ctl" Type="VI" URL="../Types/Analysis.GUI.Refs.ctl"/>
 		<Item Name="Analysis.PropertyGroups.ctl" Type="VI" URL="../Types/Analysis.PropertyGroups.ctl"/>

@@ -37,6 +37,7 @@
 		<Item Name="Analysis.GUI.Parameters.ctl" Type="VI" URL="../Types/Analysis.GUI.Parameters.ctl"/>
 		<Item Name="Analysis.GUI.Refs.ctl" Type="VI" URL="../Types/Analysis.GUI.Refs.ctl"/>
 		<Item Name="Analysis.PropertyGroups.ctl" Type="VI" URL="../Types/Analysis.PropertyGroups.ctl"/>
+		<Item Name="Analysis.ReportType.ctl" Type="VI" URL="../Types/Analysis.ReportType.ctl"/>
 		<Item Name="Analysis.StateVariables.ctl" Type="VI" URL="../Types/Analysis.StateVariables.ctl"/>
 	</Item>
 	<Item Name="Analysis.Tab.vi" Type="VI" URL="../Analysis.Tab.vi"/>

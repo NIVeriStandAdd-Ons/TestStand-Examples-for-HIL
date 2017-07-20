@@ -8,12 +8,15 @@
 		<Item Name="Analysis.LevelTransition.ODH.vi" Type="VI" URL="../SubVIs/Analysis.LevelTransition.ODH.vi"/>
 		<Item Name="Analysis.LevelTransition.OPH.vi" Type="VI" URL="../SubVIs/Analysis.LevelTransition.OPH.vi"/>
 		<Item Name="Analysis.SingleChannelLevelTransitionLogic.vi" Type="VI" URL="../SubVIs/Analysis.SingleChannelLevelTransitionLogic.vi"/>
+		<Item Name="Constants.vi" Type="VI" URL="../SubVIs/Constants.vi"/>
 		<Item Name="TDMS.GetAnalysisParameters.vi" Type="VI" URL="../SubVIs/TDMS.GetAnalysisParameters.vi"/>
 		<Item Name="TDMS.GetChannelsForLevelTransitionAnalysis.vi" Type="VI" URL="../SubVIs/TDMS.GetChannelsForLevelTransitionAnalysis.vi"/>
-		<Item Name="TDMS.GetCycledChannels.vi" Type="VI" URL="../SubVIs/TDMS.GetCycledChannels.vi"/>
 	</Item>
 	<Item Name="Type" Type="Folder">
+		<Item Name="Channel.Properties.ctl" Type="VI" URL="../Types/Channel.Properties.ctl"/>
 		<Item Name="Mode Info.ctl" Type="VI" URL="../Types/Mode Info.ctl"/>
+		<Item Name="Public.ChLVAnalysis.ctl" Type="VI" URL="../Types/Public.ChLVAnalysis.ctl"/>
+		<Item Name="Public.LVAnalysis.ctl" Type="VI" URL="../Types/Public.LVAnalysis.ctl"/>
 	</Item>
 	<Item Name="Analysis.LevelTransition.vi" Type="VI" URL="../Analysis.LevelTransition.vi"/>
 </Library>

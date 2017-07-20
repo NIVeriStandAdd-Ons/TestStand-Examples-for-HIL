@@ -36,7 +36,7 @@
       <Global.TempPath type='Path'>C:\testdata\Temp</Global.TempPath>
       <Global.RemotePath type='Path'>d:\testdata\Logs</Global.RemotePath>
       <TDMS.AnalysisVIs dim='[1]' type='Path'>
-        <Analysis_VI>C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\TestStand Sequences\LabVIEW Steps\Builds\TestStand Analysis Steps.lvlibp\Post Process Analysis Steps\Analysis.LevelTransition.vi</Analysis_VI>
+        <Analysis_VI>C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\Custom TestStand VeriStand GUI\Post Process Analysis Steps\Builds\TestStand Analysis Steps.lvlibp\Analysis.LevelTransition.vi</Analysis_VI>
       </TDMS.AnalysisVIs>
       <TDMS.ReportPassed type='Bool'>TRUE</TDMS.ReportPassed>
       <TDMS.GroupChannels type='Bool'>TRUE</TDMS.GroupChannels>

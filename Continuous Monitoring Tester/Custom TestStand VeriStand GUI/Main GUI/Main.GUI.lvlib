@@ -47,6 +47,7 @@
 		<Item Name="VI.Launch.vi" Type="VI" URL="../SubVIs/VI.Launch.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
+		<Item Name="Configuration.ctl" Type="VI" URL="../Types/Configuration.ctl"/>
 		<Item Name="Multihead.StateVariables.ctl" Type="VI" URL="../Types/Multihead.StateVariables.ctl"/>
 		<Item Name="TestStandGUI.Refs.ctl" Type="VI" URL="../Types/TestStandGUI.Refs.ctl"/>
 	</Item>

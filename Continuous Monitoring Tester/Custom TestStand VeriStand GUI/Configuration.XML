@@ -1,0 +1,26 @@
+<?xml version='1.0' standalone='yes' ?>
+<GXML_Root>
+  <Configuration mems='2'>
+    <DUTs dim='[9]' type='String'>
+      <Name>DUT1</Name>
+      <Name>DUT2</Name>
+      <Name>DUT3</Name>
+      <Name>DUT4</Name>
+      <Name>DUT5</Name>
+      <Name>DUT6</Name>
+      <Name>DUT7</Name>
+      <Name>DUT8</Name>
+      <Name>DUT9</Name>
+    </DUTs>
+    <Analysis.Parameters mems='6'>
+      <Global.ResultsPath type='Path'>C:\testdata\Logs</Global.ResultsPath>
+      <Global.TempPath type='Path'>C:\testdata\Temp</Global.TempPath>
+      <Global.RemotePath type='Path'>d:\testdata\Logs</Global.RemotePath>
+      <TDMS.AnalysisVIs dim='[1]' type='Path'>
+        <Analysis_VI>C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\TestStand Sequences\LabVIEW Steps\Builds\TestStand Analysis Steps.lvlibp\Post Process Analysis Steps\Analysis.LevelTransition.vi</Analysis_VI>
+      </TDMS.AnalysisVIs>
+      <TDMS.ReportPassed type='Bool'>TRUE</TDMS.ReportPassed>
+      <TDMS.GroupChannels type='Bool'>TRUE</TDMS.GroupChannels>
+    </Analysis.Parameters>
+  </Configuration>
+</GXML_Root>

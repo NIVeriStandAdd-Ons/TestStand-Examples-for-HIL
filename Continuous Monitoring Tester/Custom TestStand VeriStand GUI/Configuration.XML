@@ -1,7 +1,7 @@
 <?xml version='1.0' standalone='yes' ?>
 <GXML_Root>
-  <Configuration mems='2'>
-    <DUTs dim='[9]' type='String'>
+  <Configuration mems='4'>
+    <Main.DUTs dim='[9]' type='String'>
       <Name>DUT1</Name>
       <Name>DUT2</Name>
       <Name>DUT3</Name>
@@ -11,7 +11,26 @@
       <Name>DUT7</Name>
       <Name>DUT8</Name>
       <Name>DUT9</Name>
-    </DUTs>
+    </Main.DUTs>
+    <Overview.Columns dim='[3]' type='String'>
+      <Name>DUT.Bus_Power</Name>
+      <Name>Level_Transition_Analysis_Flag</Name>
+      <Name>Enable_Fault_Monitoring</Name>
+    </Overview.Columns>
+    <Execution.Tabs dim='[12]' type='String'>
+      <Name>CAN.Fault Status</Name>
+      <Name>CAN.IDH</Name>
+      <Name>CAN.IDL</Name>
+      <Name>CAN.LIN</Name>
+      <Name>CAN.ODH</Name>
+      <Name>CAN.ODL</Name>
+      <Name>CAN.OPH</Name>
+      <Name>DAQ.IDH</Name>
+      <Name>DAQ.IDL</Name>
+      <Name>DAQ.ODH</Name>
+      <Name>DAQ.ODL</Name>
+      <Name>DAQ.OPH</Name>
+    </Execution.Tabs>
     <Analysis.Parameters mems='6'>
       <Global.ResultsPath type='Path'>C:\testdata\Logs</Global.ResultsPath>
       <Global.TempPath type='Path'>C:\testdata\Temp</Global.TempPath>

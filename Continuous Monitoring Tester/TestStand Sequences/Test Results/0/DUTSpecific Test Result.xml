@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="TRML.xsl"?>
-<TestResults xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" uuid="669d09fc-9bdf-439b-84a5-6fc785fb33b3" xmlns="urn:IEEE-1636.1:2013:TestResults">
+<TestResults xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" uuid="a7282ff6-b309-4504-bbbd-0346ebab28e4" xmlns="urn:IEEE-1636.1:2013:TestResults">
 	<Personnel>
 		<SystemOperator ID="WIN-62VC0DPEC41\deaton" />
 	</Personnel>
 	<References>
-		<Reference uuid="2ebc63c2-ada8-4678-9337-a6ee97fb0bea" name="DUTSpecific">
+		<Reference uuid="6439050c-ef08-4046-9c27-4823b5a85914" name="DUTSpecific">
 			<Text xmlns="urn:IEEE-1671:2010:Common">C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\TestStand Sequences\DUTSpecific.nivsstimprof</Text>
 		</Reference>
 	</References>
-	<ResultSet endDateTime="2017-07-24T16:36:08.2870145-04:00" startDateTime="2017-07-24T16:35:47.75184-04:00" name="C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\TestStand Sequences\Test Results\0\DUTSpecific Test Result.xml" ID="Test Result">
+	<ResultSet endDateTime="2017-07-24T16:52:02.8479781-04:00" startDateTime="2017-07-24T16:51:48.4251532-04:00" name="C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\TestStand Sequences\Test Results\0\DUTSpecific Test Result.xml" ID="Test Result">
 		<Outcome value="Passed" />
-		<Test endDateTime="2017-07-24T16:35:47.7558402-04:00" startDateTime="2017-07-24T16:35:47.7558402-04:00" name="Setup" ID="Setup">
+		<Test endDateTime="2017-07-24T16:51:48.4251532-04:00" startDateTime="2017-07-24T16:51:48.4251532-04:00" name="Setup" ID="Setup">
 			<Outcome value="Passed" />
 		</Test>
-		<TestGroup endDateTime="2017-07-24T16:35:47.7638407-04:00" startDateTime="2017-07-24T16:35:47.7638407-04:00" name="Main" ID="Main">
+		<TestGroup endDateTime="2017-07-24T16:51:48.4251532-04:00" startDateTime="2017-07-24T16:51:48.4251532-04:00" name="Main" ID="Main">
 			<Outcome value="Passed" />
-			<Test endDateTime="2017-07-24T16:36:04.9918261-04:00" startDateTime="2017-07-24T16:35:47.7668408-04:00" name="Functional cycling 111715_Converted" ID="Main/Call RealTimeSequence: Functional cycling 111715_Converted.csv">
+			<Test endDateTime="2017-07-24T16:52:02.8379776-04:00" startDateTime="2017-07-24T16:51:48.4251532-04:00" name="Functional cycling 111715_Converted" ID="Main/Call RealTimeSequence: Functional cycling 111715_Converted.csv">
 				<Parameters>
 					<Parameter ID="Aliases_Shared_DMM_Measurement_Toggle">
 						<Data>
@@ -1041,13 +1041,13 @@
 						</Data>
 					</Parameter>
 					<Parameter ID="Main/Call RealTimeSequence: Functional cycling 111715_Converted.csv.SequenceFile" name="Functional cycling 111715_Converted">
-						<Reference uuid="b5e8f998-cb27-4612-b5a0-f0fb7e1ec25e" name="Functional cycling 111715_Converted">
+						<Reference uuid="cfc68774-d6da-459e-a111-111bd51d3433" name="Functional cycling 111715_Converted">
 							<Text xmlns="urn:IEEE-1671:2010:Common">C:\addons\TestStand Examples for HIL\Continuous Monitoring Tester\TestStand Sequences\Functional cycling 111715_Converted.csv</Text>
 						</Reference>
 					</Parameter>
 				</Parameters>
 				<Outcome value="Passed" />
-				<TestResult ID="ID_bc2f752c-6958-4fea-8d74-ce850c09920b" name="Pass">
+				<TestResult ID="ID_8540d86d-8238-4c01-a315-bbc9af1da2e8" name="Pass">
 					<TestData>
 						<Datum xsi:type="boolean" value="true" xmlns="urn:IEEE-1671:2010:Common" />
 					</TestData>
@@ -1061,7 +1061,7 @@
 				</TestResult>
 			</Test>
 		</TestGroup>
-		<Test endDateTime="2017-07-24T16:36:08.2860145-04:00" startDateTime="2017-07-24T16:36:08.2860145-04:00" name="Clean Up" ID="Clean Up">
+		<Test endDateTime="2017-07-24T16:52:02.8479781-04:00" startDateTime="2017-07-24T16:52:02.8479781-04:00" name="Clean Up" ID="Clean Up">
 			<Outcome value="Passed" />
 		</Test>
 	</ResultSet>

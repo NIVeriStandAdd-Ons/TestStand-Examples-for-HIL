@@ -48,6 +48,7 @@
 		<Item Name="Waveforms.Start.vi" Type="VI" URL="../SubVIs/Waveforms.Start.vi"/>
 		<Item Name="Page.Back.vi" Type="VI" URL="../SubVIs/Page.Back.vi"/>
 		<Item Name="Page.Next.vi" Type="VI" URL="../SubVIs/Page.Next.vi"/>
+		<Item Name="Tab.Set.vi" Type="VI" URL="../SubVIs/Tab.Set.vi"/>
 	</Item>
 	<Item Name="Types" Type="Folder">
 		<Item Name="Execute.UserEventRefs.ctl" Type="VI" URL="../Types/Execute.UserEventRefs.ctl"/>

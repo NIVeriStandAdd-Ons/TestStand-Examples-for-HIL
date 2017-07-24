@@ -15,6 +15,7 @@
 		<Item Name="Analysis.lvlib" Type="Library" URL="../Analysis GUI/Analysis.lvlib"/>
 		<Item Name="Stations.Overview.lvlib" Type="Library" URL="../Overview GUI/Stations.Overview.lvlib"/>
 		<Item Name="Station.Execution.lvlib" Type="Library" URL="../Execution GUI/Station.Execution.lvlib"/>
+		<Item Name="Configuration.XML" Type="Document" URL="../Configuration.XML"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Get Header from TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Get Header from TD__ogtk.vi"/>

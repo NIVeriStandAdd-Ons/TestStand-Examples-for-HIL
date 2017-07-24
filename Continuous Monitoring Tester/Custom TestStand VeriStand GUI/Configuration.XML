@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes' ?>
 <GXML_Root>
-  <Configuration mems='4'>
+  <Configuration mems='6'>
     <Main.DUTs dim='[9]' type='String'>
       <Name>DUT1</Name>
       <Name>DUT2</Name>
@@ -17,7 +17,7 @@
       <Name>Level_Transition_Analysis_Flag</Name>
       <Name>Enable_Fault_Monitoring</Name>
     </Overview.Columns>
-    <Execution.Tabs dim='[12]' type='String'>
+    <DUTExecution.Tabs dim='[12]' type='String'>
       <Name>CAN.Fault Status</Name>
       <Name>CAN.IDH</Name>
       <Name>CAN.IDL</Name>
@@ -30,7 +30,14 @@
       <Name>DAQ.ODH</Name>
       <Name>DAQ.ODL</Name>
       <Name>DAQ.OPH</Name>
-    </Execution.Tabs>
+    </DUTExecution.Tabs>
+    <SharedExecution.Use type='Bool'>TRUE</SharedExecution.Use>
+    <SharedExecution.Tabs dim='[4]' type='String'>
+      <Name>DMM</Name>
+      <Name>Current Relays</Name>
+      <Name>Power Supply</Name>
+      <Name>Test Channels</Name>
+    </SharedExecution.Tabs>
     <Analysis.Parameters mems='6'>
       <Global.ResultsPath type='Path'>C:\testdata\Logs</Global.ResultsPath>
       <Global.TempPath type='Path'>C:\testdata\Temp</Global.TempPath>

@@ -32,7 +32,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{68DFD516-0967-4304-AE05-0CF8944654CB}</Property>
-				<Property Name="Bld_version.build" Type="Int">35</Property>
+				<Property Name="Bld_version.build" Type="Int">36</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">RT SequenceCreation.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Builds/RT SequenceCreation.lvlibp</Property>

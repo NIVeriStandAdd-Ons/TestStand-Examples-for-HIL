@@ -6,17 +6,17 @@
 	<Main Name="Main">
 		<Step xsi:type="RealTimeSequenceCallStep">
 			<ParameterAssignments>
-				<ParameterAssignment Name="Aliases_DMM_Measurement_Toggle">
-					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DMM/Measurement Toggle" />
+				<ParameterAssignment Name="Aliases_Shared_DMM_Measurement_Toggle">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/Shared/DMM/Measurement Toggle" />
 				</ParameterAssignment>
-				<ParameterAssignment Name="Aliases_DMM_DMM_Mode">
-					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DMM/DMM Mode" />
+				<ParameterAssignment Name="Aliases_Shared_DMM_DMM_Mode">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/Shared/DMM/DMM Mode" />
 				</ParameterAssignment>
-				<ParameterAssignment Name="Aliases_DMM_VBATT_Line">
-					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DMM/VBATT_Line" />
+				<ParameterAssignment Name="Aliases_Shared_DMM_VBATT_Line">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/Shared/DMM/VBATT_Line" />
 				</ParameterAssignment>
-				<ParameterAssignment Name="Aliases_DMM_DUT">
-					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DMM/DUT" />
+				<ParameterAssignment Name="Aliases_Shared_DMM_DUT">
+					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/Shared/DMM/DUT" />
 				</ParameterAssignment>
 				<ParameterAssignment Name="Aliases_DUT1_DAQ_IDH_IDH01">
 					<Value xsi:type="SystemDefinitionChannelResource" Path="Aliases/DUT1/DAQ/IDH/IDH01" />

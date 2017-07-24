@@ -10,7 +10,7 @@
 				<String>Continuous</String>
 			</Property>
 			<Property Name="Version">
-				<String>1.0.0.578</String>
+				<String>1.0.0.592</String>
 			</Property>
 			<Property Name="Creator">
 				<String />
@@ -18684,169 +18684,6 @@
 			<Description />
 			<Properties />
 			<Errors />
-			<Section Name="DMM" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
-				<Description />
-				<Properties />
-				<Errors />
-				<Alias Name="DMM Mode" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2120" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2124" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="Measurement" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2121" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="Measurement Toggle" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2122" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="Over_range?" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2123" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="VBATT_Line" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2125" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-			</Section>
-			<Section Name="DUT Power Relays" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
-				<Description />
-				<Properties />
-				<Errors />
-				<Alias Name="Current_Measurement_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 867" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="Current_Measurement_Station_Select" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 868" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT1_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 858" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT2_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 859" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT3_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 860" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT4_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 861" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT5_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 862" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT6_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 863" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT7_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 865" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT8_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 866" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="DUT9_Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 864" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-			</Section>
 			<Section Name="DUT1" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 				<Description />
 				<Properties />
@@ -20986,6 +20823,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 858" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -23150,6 +22996,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 859" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -25305,6 +25160,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 860" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -27469,6 +27333,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 861" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -29633,6 +29506,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 862" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -31797,6 +31679,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 863" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -33961,6 +33852,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 865" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -36125,6 +36025,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 866" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -38289,6 +38198,15 @@
 							<Errors />
 						</Alias>
 					</Section>
+					<Alias Name="Hi_Power_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 864" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
 				</Section>
 				<Section Name="LIN" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
@@ -38314,105 +38232,192 @@
 					</Alias>
 				</Section>
 			</Section>
-			<Section Name="PowerSupply" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
+			<Section Name="Shared" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 				<Description />
 				<Properties />
 				<Errors />
-				<Alias Name="Address" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+				<Section Name="DMM" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2126" />
-						</Property>
-					</Properties>
+					<Properties />
 					<Errors />
-				</Alias>
-				<Alias Name="Current" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+					<Alias Name="DMM Mode" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2120" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="DUT" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2124" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Measurement" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2121" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Measurement Toggle" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2122" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Over_range?" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2123" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="VBATT_Line" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2125" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+				</Section>
+				<Section Name="Current Relays" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2127" />
-						</Property>
-					</Properties>
+					<Properties />
 					<Errors />
-				</Alias>
-				<Alias Name="Enable" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+					<Alias Name="Current_Measurement_Relay" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 867" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Current_Measurement_Station_Select" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 868" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+				</Section>
+				<Section Name="Power Supply" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2128" />
-						</Property>
-					</Properties>
+					<Properties />
 					<Errors />
-				</Alias>
-				<Alias Name="UpdatePowerSupply" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+					<Alias Name="Address" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2126" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Current" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2127" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Enable" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2128" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="UpdatePowerSupply" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2129" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Voltage" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2130" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+				</Section>
+				<Section Name="Test Channels" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
 					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2129" />
-						</Property>
-					</Properties>
+					<Properties />
 					<Errors />
-				</Alias>
-				<Alias Name="Voltage" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2130" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-			</Section>
-			<Section Name="Test Channels" TypeGUID="A579F6FF-5680-1F22-249C-2C499E16CDB8">
-				<Description />
-				<Properties />
-				<Errors />
-				<Alias Name="Abort" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 869" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="Enable_Fault_Monitoring" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 870" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="Level_Transition_Analysis_Flag" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 2" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="PWM Timeout" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 0" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
-				<Alias Name="Thermal Chamber On" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
-					<Description />
-					<Properties>
-						<Property Name="Referenced Channel">
-							<DependentNode Path="Targets/Controller/User Channels/User Channel 1" />
-						</Property>
-					</Properties>
-					<Errors />
-				</Alias>
+					<Alias Name="Abort" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 869" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Enable_Fault_Monitoring" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 870" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Level_Transition_Analysis_Flag" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 2" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="PWM Timeout" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 0" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+					<Alias Name="Thermal Chamber On" TypeGUID="2c11e122-dad9-44da-989c-a66ff203fa31">
+						<Description />
+						<Properties>
+							<Property Name="Referenced Channel">
+								<DependentNode Path="Targets/Controller/User Channels/User Channel 1" />
+							</Property>
+						</Properties>
+						<Errors />
+					</Alias>
+				</Section>
 			</Section>
 		</Section>
 		<Section Name="Scales" TypeGUID="032c8aec-ce5b-6d40-06c5-5703bbc7ccee">
